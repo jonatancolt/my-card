@@ -30,4 +30,5 @@ body {
     width: 150px;
     height: 150px;
     border-radius: 60%;
+    object-fit: cover;
    
