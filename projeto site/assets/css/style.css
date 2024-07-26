@@ -1,0 +1,127 @@
+
+
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  min-height: 100vh;
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-image: url('../images/back.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+
+/*ÍCONES DAS LOGOS*/
+.face1 {
+  margin-left: 150px;
+  width: 31px;
+  height: 31px;
+
+
+}
+.git2{
+  width: 30px;
+  height: 30px;
+ 
+
+}
+.insta1{
+  width: 30px;
+  height: 30px;
+
+
+}
+.lkn1{
+  width: 30px;
+  height: 30px;
+  align-items: center;
+  display: inline;
+
+
+}
+
+/*MINHA FOTO REDONDA*/
+.capa {
+  width: 150px;
+  height: 150px;
+  border-radius: 70%;
+  margin-left: 170px;
+  margin-top: 20px;
+  background-attachment: fixed;
+  background-size: cover;
+
+}
+
+
+/*BOTÕES*/
+.lkn, .insta, .face, .git {
+  display: inline-block;
+  margin-left: 140px;
+  background: rgb(45, 126, 231);
+  height: 30px;
+  width: 150px;
+  line-height: 30px;
+  border-radius: 30px;
+  border: none;
+  letter-spacing: 1px;
+  font-family: Arial, sans-serif;
+  text-align: center;
+  color: white;
+  text-decoration: none;
+  box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.3);
+  cursor: pointer;
+}
+
+.lkn:hover, .insta:hover, .face:hover, .git:hover {
+  color: #1507dd;
+  font-weight: bold;
+  background: #39ff14;
+  box-shadow: 0 0 50px #39ff14;
+}
+
+button {
+  background: none;
+  border: none;
+  color: inherit;
+  font: inherit;
+  cursor: pointer;
+  outline: inherit;
+  align-items: center;
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+
+/* Estilos para telas maiores (desktop) */
+@media (min-width: 768px) {
+  .container {
+      max-width: 600px;
+      margin: 0 auto;
+  }
+
+  .capa {
+      width: 150px;
+      height: 150px;
+      border-radius: 70%;
+  }
+
+  .lkn, .insta, .face, .git {
+      width: 250px;
+      height: 50px;
+      line-height: 50px;
+  }
+}
+
+
+
+
+
