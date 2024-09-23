@@ -4,7 +4,9 @@ Este é o meu cartão de visita digital, hospedado no Netlify. Você pode acess�
 
 ## Preview do site
 
-[![Cartão de Visita](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://youtu.be/QqPWUrGqdts)
+
+[![Cartão de Visita](./assets/images/image.png)](https://jgfgomes24.netlify.app/)
+
 
 ## Redes Sociais
 
