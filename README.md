@@ -4,13 +4,4 @@ Este é o meu cartão de visita digital, hospedado no Netlify. Você pode acess�
 
 ## Preview do site
 
-
-[![Cartão de Visita](./assets/images/image.png)](https://jgfgomes24.netlify.app/)
-
-
-## Redes Sociais
-
-- [LinkedIn](https://www.linkedin.com/in/jonatan-gomes-floriano-5b45172a0/)  
-- [GitHub](https://github.com/jonatancolt)
-- [Instagram](https://www.instagram.com/jonatan.jc1919/)
-- [Facebook](https://www.facebook.com/profile.php?id=100011039597892)
+![mycard-GoogleChrome2024-10-1611-49-19-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/d5ed64f3-bd91-47ba-b6bd-8776726eda77)
